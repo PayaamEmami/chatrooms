@@ -1,0 +1,19 @@
+Custom License — All Rights Reserved
+
+Copyright © 2025 Payaam Emami
+
+This project and its source code are publicly visible for educational and personal reference only.
+
+You may:
+- View and read the source code for learning or review purposes.
+
+You may NOT:
+- Copy, modify, reproduce, or redistribute this code.
+- Use any part of this codebase in personal, academic, or commercial projects.
+- Sell, license, sublicense, or commercially exploit this project or any derivatives.
+
+This project is NOT open source and is protected under copyright law. All rights are reserved by the author.
+
+If you are interested in licensing or collaborating on this project, please contact me at: contact@payaame.com
+
+Unauthorized use of this codebase may result in legal action.
